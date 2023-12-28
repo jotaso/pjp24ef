@@ -1,0 +1,2595 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Teachers_Timetable>
+  <Teacher name="Prof_LP1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="14"></Activity><Subject name="L. Port"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="19"></Activity><Subject name="L. Port"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="8"></Activity><Subject name="L. Port"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="1"></Activity><Subject name="L. Port"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="1"></Activity><Subject name="L. Port"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="4"></Activity><Subject name="L. Port"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="41"></Activity><Subject name="Arte"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="18"></Activity><Subject name="L. Port"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="46"></Activity><Subject name="Arte"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="12"></Activity><Subject name="L. Port"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="6"></Activity><Subject name="L. Port"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="6"></Activity><Subject name="L. Port"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="5"></Activity><Subject name="L. Port"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="47"></Activity><Subject name="Arte"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="16"></Activity><Subject name="L. Port"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="16"></Activity><Subject name="L. Port"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="3"></Activity><Subject name="L. Port"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="43"></Activity><Subject name="Arte"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="15"></Activity><Subject name="L. Port"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="7"></Activity><Subject name="L. Port"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="9"></Activity><Subject name="L. Port"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="48"></Activity><Subject name="Arte"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="20"></Activity><Subject name="L. Port"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="45"></Activity><Subject name="Arte"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="44"></Activity><Subject name="Arte"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="11"></Activity><Subject name="L. Port"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="11"></Activity><Subject name="L. Port"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="10"></Activity><Subject name="L. Port"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="42"></Activity><Subject name="Arte"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="17"></Activity><Subject name="L. Port"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="2"></Activity><Subject name="L. Port"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="13"></Activity><Subject name="L. Port"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_LP2">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="25"></Activity><Subject name="L. Port"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="26"></Activity><Subject name="L. Port"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="26"></Activity><Subject name="L. Port"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="33"></Activity><Subject name="L. Port"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="40"></Activity><Subject name="L. Port"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="31"></Activity><Subject name="L. Port"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="31"></Activity><Subject name="L. Port"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="29"></Activity><Subject name="L. Port"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="23"></Activity><Subject name="L. Port"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="38"></Activity><Subject name="L. Port"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="37"></Activity><Subject name="L. Port"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="21"></Activity><Subject name="L. Port"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="21"></Activity><Subject name="L. Port"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="32"></Activity><Subject name="L. Port"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="28"></Activity><Subject name="L. Port"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="35"></Activity><Subject name="L. Port"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="24"></Activity><Subject name="L. Port"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="36"></Activity><Subject name="L. Port"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="36"></Activity><Subject name="L. Port"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="27"></Activity><Subject name="L. Port"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="30"></Activity><Subject name="L. Port"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="39"></Activity><Subject name="L. Port"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="34"></Activity><Subject name="L. Port"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="22"></Activity><Subject name="L. Port"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Arte1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="51"></Activity><Subject name="Arte"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="50"></Activity><Subject name="Arte"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="49"></Activity><Subject name="Arte"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="52"></Activity><Subject name="Arte"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Ed_F1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="60"></Activity><Subject name="Ed. Fisica"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="60"></Activity><Subject name="Ed. Fisica"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="58"></Activity><Subject name="Ed. Fisica"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="58"></Activity><Subject name="Ed. Fisica"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="54"></Activity><Subject name="Ed. Fisica"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="54"></Activity><Subject name="Ed. Fisica"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="55"></Activity><Subject name="Ed. Fisica"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="55"></Activity><Subject name="Ed. Fisica"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="53"></Activity><Subject name="Ed. Fisica"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="53"></Activity><Subject name="Ed. Fisica"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="56"></Activity><Subject name="Ed. Fisica"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="56"></Activity><Subject name="Ed. Fisica"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="59"></Activity><Subject name="Ed. Fisica"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="59"></Activity><Subject name="Ed. Fisica"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="57"></Activity><Subject name="Ed. Fisica"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="57"></Activity><Subject name="Ed. Fisica"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Hist1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="61"></Activity><Subject name="Historia"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="61"></Activity><Subject name="Historia"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="69"></Activity><Subject name="Historia"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="79"></Activity><Subject name="Historia"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="79"></Activity><Subject name="Historia"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="65"></Activity><Subject name="Historia"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="83"></Activity><Subject name="Historia"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="76"></Activity><Subject name="Historia"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="76"></Activity><Subject name="Historia"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="73"></Activity><Subject name="Historia"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="73"></Activity><Subject name="Historia"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="62"></Activity><Subject name="Historia"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="72"></Activity><Subject name="Historia"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="81"></Activity><Subject name="Historia"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="68"></Activity><Subject name="Historia"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="71"></Activity><Subject name="Historia"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="84"></Activity><Subject name="Historia"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="66"></Activity><Subject name="Historia"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="74"></Activity><Subject name="Historia"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="63"></Activity><Subject name="Historia"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="82"></Activity><Subject name="Historia"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="82"></Activity><Subject name="Historia"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="67"></Activity><Subject name="Historia"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="67"></Activity><Subject name="Historia"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="75"></Activity><Subject name="Historia"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="78"></Activity><Subject name="Historia"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="70"></Activity><Subject name="Historia"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="70"></Activity><Subject name="Historia"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="77"></Activity><Subject name="Historia"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="64"></Activity><Subject name="Historia"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="64"></Activity><Subject name="Historia"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="80"></Activity><Subject name="Historia"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Mat1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="126"></Activity><Subject name="Matematica"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="112"></Activity><Subject name="Matematica"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="117"></Activity><Subject name="Matematica"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="123"></Activity><Subject name="Matematica"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="109"></Activity><Subject name="Matematica"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="109"></Activity><Subject name="Matematica"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="128"></Activity><Subject name="Matematica"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="122"></Activity><Subject name="Matematica"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="114"></Activity><Subject name="Matematica"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="114"></Activity><Subject name="Matematica"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="120"></Activity><Subject name="Matematica"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="125"></Activity><Subject name="Matematica"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="110"></Activity><Subject name="Matematica"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="115"></Activity><Subject name="Matematica"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="119"></Activity><Subject name="Matematica"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="119"></Activity><Subject name="Matematica"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="113"></Activity><Subject name="Matematica"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="118"></Activity><Subject name="Matematica"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="127"></Activity><Subject name="Matematica"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="111"></Activity><Subject name="Matematica"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="116"></Activity><Subject name="Matematica"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="121"></Activity><Subject name="Matematica"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="124"></Activity><Subject name="Matematica"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="124"></Activity><Subject name="Matematica"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Mat2">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="141"></Activity><Subject name="Matematica"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="141"></Activity><Subject name="Matematica"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="129"></Activity><Subject name="Matematica"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="129"></Activity><Subject name="Matematica"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="140"></Activity><Subject name="Matematica"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="144"></Activity><Subject name="Matematica"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="134"></Activity><Subject name="Matematica"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="131"></Activity><Subject name="Matematica"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="132"></Activity><Subject name="Matematica"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="133"></Activity><Subject name="Matematica"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="133"></Activity><Subject name="Matematica"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="143"></Activity><Subject name="Matematica"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="138"></Activity><Subject name="Matematica"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="139"></Activity><Subject name="Matematica"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="135"></Activity><Subject name="Matematica"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="130"></Activity><Subject name="Matematica"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="137"></Activity><Subject name="Matematica"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="137"></Activity><Subject name="Matematica"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="142"></Activity><Subject name="Matematica"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="136"></Activity><Subject name="Matematica"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Cie1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="164"></Activity><Subject name="Ciencias"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="148"></Activity><Subject name="Ciencias"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="148"></Activity><Subject name="Ciencias"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="168"></Activity><Subject name="Ciencias"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="161"></Activity><Subject name="Ciencias"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="156"></Activity><Subject name="Ciencias"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="147"></Activity><Subject name="Ciencias"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="157"></Activity><Subject name="Ciencias"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="157"></Activity><Subject name="Ciencias"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="167"></Activity><Subject name="Ciencias"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="155"></Activity><Subject name="Ciencias"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="165"></Activity><Subject name="Ciencias"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="151"></Activity><Subject name="Ciencias"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="151"></Activity><Subject name="Ciencias"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="152"></Activity><Subject name="Ciencias"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="150"></Activity><Subject name="Ciencias"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="162"></Activity><Subject name="Ciencias"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="145"></Activity><Subject name="Ciencias"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="145"></Activity><Subject name="Ciencias"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="159"></Activity><Subject name="Ciencias"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="154"></Activity><Subject name="Ciencias"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="154"></Activity><Subject name="Ciencias"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="158"></Activity><Subject name="Ciencias"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="153"></Activity><Subject name="Ciencias"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="146"></Activity><Subject name="Ciencias"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="163"></Activity><Subject name="Ciencias"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="163"></Activity><Subject name="Ciencias"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="149"></Activity><Subject name="Ciencias"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="166"></Activity><Subject name="Ciencias"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="166"></Activity><Subject name="Ciencias"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="160"></Activity><Subject name="Ciencias"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="160"></Activity><Subject name="Ciencias"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Finan1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="170"></Activity><Subject name="Ed. Financeira"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="178"></Activity><Subject name="Ed. Financeira"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="177"></Activity><Subject name="Ed. Financeira"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="174"></Activity><Subject name="Ed. Financeira"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="172"></Activity><Subject name="Ed. Financeira"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="169"></Activity><Subject name="Ed. Financeira"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="171"></Activity><Subject name="Ed. Financeira"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="173"></Activity><Subject name="Ed. Financeira"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Ing1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="184"></Activity><Subject name="Ingles"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="187"></Activity><Subject name="Ingles"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="181"></Activity><Subject name="Ingles"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="183"></Activity><Subject name="Ingles"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="185"></Activity><Subject name="Ingles"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="179"></Activity><Subject name="Ingles"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="191"></Activity><Subject name="Ingles"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="193"></Activity><Subject name="Ingles"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="192"></Activity><Subject name="Ingles"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="182"></Activity><Subject name="Ingles"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="190"></Activity><Subject name="Ingles"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="186"></Activity><Subject name="Ingles"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="189"></Activity><Subject name="Ingles"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="188"></Activity><Subject name="Ingles"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="194"></Activity><Subject name="Ingles"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="180"></Activity><Subject name="Ingles"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Orie1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Prat1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="224"></Activity><Subject name="Praticas"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="226"></Activity><Subject name="Praticas"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="225"></Activity><Subject name="Praticas"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="223"></Activity><Subject name="Praticas"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Elet1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Tecno1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="254"></Activity><Subject name="Tecnologias"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="249"></Activity><Subject name="Tecnologias"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="252"></Activity><Subject name="Tecnologias"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="250"></Activity><Subject name="Tecnologias"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="246"></Activity><Subject name="Tecnologias"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="243"></Activity><Subject name="Tecnologias"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="256"></Activity><Subject name="Tecnologias"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="257"></Activity><Subject name="Tecnologias"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="253"></Activity><Subject name="Tecnologias"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="248"></Activity><Subject name="Tecnologias"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="255"></Activity><Subject name="Tecnologias"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="258"></Activity><Subject name="Tecnologias"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="245"></Activity><Subject name="Tecnologias"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="244"></Activity><Subject name="Tecnologias"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="251"></Activity><Subject name="Tecnologias"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="247"></Activity><Subject name="Tecnologias"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_Geo1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="90"></Activity><Subject name="Geografia"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="92"></Activity><Subject name="Geografia"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="95"></Activity><Subject name="Geografia"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="101"></Activity><Subject name="Geografia"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="105"></Activity><Subject name="Geografia"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="88"></Activity><Subject name="Geografia"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="88"></Activity><Subject name="Geografia"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="103"></Activity><Subject name="Geografia"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="103"></Activity><Subject name="Geografia"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="108"></Activity><Subject name="Geografia"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="98"></Activity><Subject name="Geografia"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="86"></Activity><Subject name="Geografia"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="87"></Activity><Subject name="Geografia"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="104"></Activity><Subject name="Geografia"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="89"></Activity><Subject name="Geografia"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="94"></Activity><Subject name="Geografia"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="94"></Activity><Subject name="Geografia"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="102"></Activity><Subject name="Geografia"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="93"></Activity><Subject name="Geografia"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="96"></Activity><Subject name="Geografia"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="100"></Activity><Subject name="Geografia"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="100"></Activity><Subject name="Geografia"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="97"></Activity><Subject name="Geografia"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="97"></Activity><Subject name="Geografia"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     <Activity id="106"></Activity><Subject name="Geografia"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="106"></Activity><Subject name="Geografia"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     <Activity id="85"></Activity><Subject name="Geografia"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="85"></Activity><Subject name="Geografia"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="91"></Activity><Subject name="Geografia"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="91"></Activity><Subject name="Geografia"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="107"></Activity><Subject name="Geografia"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     <Activity id="99"></Activity><Subject name="Geografia"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+  </Teacher>
+  <Teacher name="Prof_PV1">
+   <Day name="Segunda-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     <Activity id="228"></Activity><Subject name="P. Vida"></Subject><Students name="6 Ano B"></Students>
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Terça-feira">
+    <Hour name="07:10 - 07:55">
+     <Activity id="232"></Activity><Subject name="P. Vida"></Subject><Students name="8 Ano B"></Students>
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="227"></Activity><Subject name="P. Vida"></Subject><Students name="6 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     <Activity id="229"></Activity><Subject name="P. Vida"></Subject><Students name="7 Ano A"></Students>
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quarta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="231"></Activity><Subject name="P. Vida"></Subject><Students name="8 Ano A"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Quinta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     <Activity id="233"></Activity><Subject name="P. Vida"></Subject><Students name="9 Ano A"></Students>
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     <Activity id="230"></Activity><Subject name="P. Vida"></Subject><Students name="7 Ano B"></Students>
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     
+    </Hour>
+   </Day>
+   <Day name="Sexta-feira">
+    <Hour name="07:10 - 07:55">
+     
+    </Hour>
+    <Hour name="07:55 - 08:40">
+     
+    </Hour>
+    <Hour name="08:40 - 09:25">
+     
+    </Hour>
+    <Hour name="09:25 - 09:40">
+     
+    </Hour>
+    <Hour name="09:40 - 10:25">
+     
+    </Hour>
+    <Hour name="10:25 - 11:10">
+     
+    </Hour>
+    <Hour name="11:10 - 11:55">
+     
+    </Hour>
+    <Hour name="11:55 - 12:40">
+     
+    </Hour>
+    <Hour name="12:40 - 13:25">
+     
+    </Hour>
+    <Hour name="13:25 - 14:10">
+     <Activity id="234"></Activity><Subject name="P. Vida"></Subject><Students name="9 Ano B"></Students>
+    </Hour>
+   </Day>
+  </Teacher>
+</Teachers_Timetable>
